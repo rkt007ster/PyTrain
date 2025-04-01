@@ -12,3 +12,7 @@ Module 3 - Task 2: Sum of Integers from 1 to 50 Using a Loop
 Module 4 - Task 1: Calculate Factorial Using a Function
 
 Module 4 - Task 2: Using the Math Module for Calculations
+
+Module 5 - Task 1: Read a File and Handle Errors
+
+Module 5 - Task 2: Write and Append Data to a File
