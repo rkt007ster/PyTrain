@@ -16,3 +16,7 @@ Module 4 - Task 2: Using the Math Module for Calculations
 Module 5 - Task 1: Read a File and Handle Errors
 
 Module 5 - Task 2: Write and Append Data to a File
+
+Module 6 - Task 1: Create a Dictionary of Student Marks
+
+Module 6 - Task 2: Demonstrate List Slicing 
